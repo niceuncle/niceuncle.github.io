@@ -1,0 +1,16 @@
+#div1{
+    width:20%;
+    float:left;
+    background-color: cornflowerblue;
+    height:900px;
+    font-size:24px;
+    text-align: center;
+    color:white;
+}
+#div2{
+    width:75%;
+    height:900px;
+    float:right;
+    padding:30px;
+
+}
